@@ -80,7 +80,7 @@ puts("|____________|____________|");
 }
 int d()
 {
-puts("       KUNWAR ARORA");
+puts("       DILPREET KAUR");
 }
 }
 ```
@@ -90,12 +90,12 @@ puts("       KUNWAR ARORA");
 DEPARTMENT OF INFORMATION TECHNOLOGY
 ___________________________
 |    xxxxxxxxxxxxxxx      |
-|      (   ^     ^   )      |
-|      (   0     0   )      |
-|       \     |     /       |
-|        \    =    /        |
-|         \_______/         |
-|              |            |
+|     (   ^     ^   )     |
+|     (   0     0   )     |
+|      \     |     /      |
+|       \    =    /       |
+|        \_______/        |
+|            |            |
 |____________|____________|
        DILPREET KAUR
 ```
@@ -638,5 +638,5 @@ product of the matrix:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzUxNTg0XX0=
+eyJoaXN0b3J5IjpbMTQzMzk1MzE5XX0=
 -->
