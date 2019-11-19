@@ -97,7 +97,7 @@ ___________________________
 |         \_______/         |
 |              |            |
 |____________|____________|
-       KUNWAR ARORA
+       DILPREET KAUR
 ```
 ## 4:To fill your information
 
@@ -132,17 +132,17 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 **OUTPUT:**
 ```
 Enter your information:
-Name = kunwar
+Name = dilpreet
 
-Roll no=1921058
+Roll no=1921026
 
 Age = 18
 
-Phone no.= 9988988833
+Phone no.= 8284978097
 
-The name is kunwar
-Your roll no is 1921058
-My phone number is 9988988833
+The name is dilpreet
+Your roll no is 1921026
+My phone number is 8284978097
  My age is 18
  ```
 ## 5:To show area,perimeter,volume of square
@@ -638,12 +638,5 @@ product of the matrix:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjkwNTU4MSwxODMwMzc3MjE4LDc4MT
-QzMDgzLC0xMTUzNjY3NDI3LDE3NTU3NTYyMzgsODM5MTA0ODUs
-NTcyNzQ2ODAzLDE2ODg3MzMwMjUsLTExNTgzOTQ4MDEsLTE3OT
-cyNTcyNDUsLTUxNjczOTY0OCwtMzYyMjc4NzQyLC0xOTY2Njg4
-MDgzLDE0MzM4MDA5MjgsNzAzNzQ5OTI5XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ0Mzk3NzBdfQ==
+eyJoaXN0b3J5IjpbOTQ1NzUxNTg0XX0=
 -->
